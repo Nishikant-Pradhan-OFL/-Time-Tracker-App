@@ -1,0 +1,13 @@
+{
+  "name": "time-tracker-app",
+  "version": "1.0.0",
+  "description": "A simple desktop time tracker",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nishikant Pradhan",
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
